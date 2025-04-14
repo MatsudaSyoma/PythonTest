@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\rci_2\\documents\\unreal projects\\python\\source\\python\\python.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\rci_2\\documents\\unreal projects\\python\\intermediate\\build\\win64\\x64\\pythoneditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\rci_2\\documents\\unreal projects\\python\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\python\\definitions.python.h",
+            "c:\\users\\rci_2\\documents\\unreal projects\\python\\source\\python\\python.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

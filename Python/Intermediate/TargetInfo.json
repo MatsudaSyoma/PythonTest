@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Python",
+			"Path": "..\\Source\\Python.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "PythonEditor",
+			"Path": "..\\Source\\PythonEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
