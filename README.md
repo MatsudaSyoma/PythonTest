@@ -1,0 +1,3 @@
+PythonScriptのファイルはContent/PythonScript内にあります。
+実行方法はContent/MyFolder/BPW_ApplyPythonのWidgetを実行して、TextBoxに数値を入れた後、
+エディタ上でアクターを何かしら選択した状態で実行ボタンを押すと、座標が変わるようになっています。
